@@ -2,7 +2,7 @@ import streamlit as st
 from chain import Chain
 import os
 
-st.title('Cold email generator')
+st.title('Apply to job email generator')
 url_input = st.text_input("Enter the job description", value="")
 submit_button = st.button("Submit")
 
