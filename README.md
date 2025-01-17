@@ -11,3 +11,6 @@ Web application built using Streamlit, LangChain, and an open-source language mo
 - Paste your Resume.
 - The app scrapes the job description and analyzes it.
 - The app then generates a customized email draft for the HR department.
+
+## Screenshots
+![Screenshot 2568-01-17 at 23 02 02](https://github.com/user-attachments/assets/a7c1e13f-34e5-43dc-92ca-3332f12b9d48)
